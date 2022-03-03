@@ -1,7 +1,7 @@
 package tema5;
 
 import java.util.Scanner;
-
+//Ejercicio 9
 public class TresEnRaya {
     char tablero[][] = {{'1','2','3'},{'4','5','6'},{'7','8','9'}};
     public void tresEnRaya(Scanner teclado){
