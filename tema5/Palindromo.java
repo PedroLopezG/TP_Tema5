@@ -1,6 +1,6 @@
 package tema5;
 import java.util.Scanner;
-
+//Ejercicio 5
 public class Palindromo {
 
     public void palindromo(Scanner teclado){
