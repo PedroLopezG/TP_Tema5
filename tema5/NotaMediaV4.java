@@ -3,7 +3,7 @@ import java.util.ArrayList;
 import java.util.Scanner;
 
 public class NotaMediaV4 {
-    
+    //Ejercicio3
     public void notaMedia(Scanner teclado){
         ArrayList<Double> notas = new ArrayList<>();
         double nota;
