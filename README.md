@@ -1,4 +1,4 @@
-# # Técnicas de programación - Tema 5
+# Técnicas de programación - Tema 5
 
 ## Alejandro de León Fernández
 ## Pedro Manuel López Gutiérrez
